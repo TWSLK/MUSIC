@@ -42,6 +42,7 @@ module.exports = function () {
       var warning = warnings[i]
       console.log('  ' + warning)
     }
+    
     console.log()
     process.exit(1)
   }

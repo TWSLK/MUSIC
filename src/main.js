@@ -9,7 +9,7 @@ fastclick.attach(document.body)
 /* eslint indent: "error" */
 /* eslint-disable no-new */
 new Vue({
-    el: '#app',
-    router,
-    render: h => h(App)
+  el: '#app',
+  router,
+  render: h => h(App)
 })
